@@ -1,8 +1,8 @@
 import React from 'react';
 import Navbar from './compenents/Nav';
 import './App.css'
-import './Register.jsx'
-import './Login.jsx'
+import './compenents/Register.jsx'
+import './compenents/Login.jsx'
 
 const App = () => {
     return (
